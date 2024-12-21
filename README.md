@@ -11,9 +11,7 @@
 ## back-end
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,sqlite,postman,express)](https://skillicons.dev)
-----------------------------------------------------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-
+-------------------
 
 <!--
 **Elder-levi/Elder-levi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
