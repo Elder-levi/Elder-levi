@@ -1,4 +1,4 @@
-### OLa Meu nome é Elder levi tenho 20 anos sou estudante do curso-tecnico de Analise e desenvolvimento de Sistemas e estou em busca do meu primeiro emprego como desenvolvedor , e estou no 4° semestre.
+### OLa Meu nome é Elder levi tenho 20 anos sou estudante do curso-tecnico de Analise e desenvolvimento de Sistemas e estou em busca do meu primeiro emprego como desenvolvedor , e estou no 3° semestre.
 
 
 
