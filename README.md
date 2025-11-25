@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Elder Levi
+#  Elder Levi
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistema da informação. 
+Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técnico em Desenvolvimento de Sistemas.
 
 ### 🤖 Linguagens e Tecnologias
 ### FRONT-END
@@ -121,10 +121,10 @@ Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técni
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elder-levi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elder-levi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
