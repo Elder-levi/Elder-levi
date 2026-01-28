@@ -36,6 +36,15 @@ Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técni
 
 <img 
     align="left" 
+    alt="Vue.js"
+    title="Vue.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -66,6 +75,16 @@ Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técni
     src="https://devicon-website.vercel.app/api/java/original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+
 <br/>
 <br/>
 
@@ -94,7 +113,7 @@ Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técni
 <br/>
 <br/>
 
-### VERSIONAMENTO
+### VERSIONAMENTO & COLABORAÇÃO
 
 <img 
     align="left" 
@@ -103,6 +122,15 @@ Me chamo Elder Levi, tenho 21 anos e sou de Salvador-BA. Concluir o curso técni
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 
